@@ -34,7 +34,7 @@
 - **Overall Recommendation:** REVISE
 
 ### Advisor Feedback Draft
-This project offers a high-impact exploration of model distillation, which is a vital skill in modern Enterprise AI. To succeed within the 12-week BTT timeline, I recommend two adjustments: 1) Reduce the synthetic dataset size to 5k-10k high-quality samples to stay within budget/time, and 2) Use a local open-source teacher model (e.g., Llama-3-8B via Ollama or HuggingFace) for label generation to remove dependency on proprietary API keys. Please resubmit with a refined 12-week milestone plan.
+This project offers a high-impact exploration of model distillation, which is a vital skill in modern Enterprise AI. To succeed within the 12-week BTT timeline, I recommend two adjustments: 1) Reduce the synthetic dataset size to 5k-10k high-quality samples to stay within budget/time, and 2) Use a local open-source teacher model (e.g., Llama-3-8B via Ollama or HuggingFace) for label generation to remove dependency on proprietary API keys. 
 
 ---
 
