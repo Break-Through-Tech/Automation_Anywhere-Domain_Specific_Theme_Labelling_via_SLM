@@ -24,7 +24,7 @@
 ### Technical Vetting
 | Check | Status | Notes |
 | :--- | :--- | :--- |
-| Python Compatibility | 🟢 | Project utilizes standard NLP ecosystem (HuggingFace Transformers, PyTorch, Scikit-learn) which is fully compatible with Google Colab. |
+| Python Compatibility | 🟢 | Project utilizes standard NLP ecosystem (HuggingFace Transformers, PyTorch, Scikit-learn), which is fully compatible with Google Colab. |
 | Data Readiness | 🟢 | Bitext and CLINC150 are well-documented, standard benchmark datasets for intent classification. |
 | Resource Check | 🟡 | While Free-tier Colab is requested, fine-tuning Phi-2 or DistilBERT can hit VRAM limits. Reliance on external LLM APIs for teacher labeling incurs costs and potential quota issues. |
 
